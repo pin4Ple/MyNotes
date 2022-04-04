@@ -81,7 +81,7 @@ fi
 # download specific mhddos_proxy version
 git clone https://github.com/porthole-ascend-cinnamon/$PROXY_PROJECT_NAME.git &> /dev/null
 cd $PROXY_DIR
-git checkout $PROXY_PROJECT_VERSION &> /dev/null
+#git checkout $PROXY_PROJECT_VERSION &> /dev/null
 
 # install mhddos_proxy dependencies
 python3 -m pip install -r requirements.txt &> /dev/null
