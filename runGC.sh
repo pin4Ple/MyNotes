@@ -22,7 +22,7 @@ refresh_interval="15m"
 thread_count="250"
 process_count="20"
 stats_interval="60"
-url_with_targets="https://raw.githubusercontent.com/pin4Ple/MyNotes/main/4Collabs"
+url_with_targets="https://raw.githubusercontent.com/pin4Ple/MyNotes/main/4Collabs.txt"
 
 while true; do
     case "$1" in
